@@ -1,5 +1,3 @@
-### **TL;DR:**
-
 Uma busca rápida e fácil por atletas brasileiros! 
 
 ### **O que faz essa aplicação?**
